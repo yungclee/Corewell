@@ -9,7 +9,7 @@ library(ggplot2)
 data=read.csv("C://Users/BH244340/Downloads/Glucose.csv")
 
 ## by github URL, requires internet connection, this may timeout for online compiler 
-data = read.csv(url("https://raw.githubusercontent.com/yungclee/Corewell/main/Glucose.csv"))
+data = read.csv(url("https://raw.githubusercontent.com/yungclee/Corewell/main/Data/Glucose.csv"))
 
 
 ## by text, this method is not recommended
