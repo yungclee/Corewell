@@ -6,10 +6,10 @@ library(ggplot2)
 #===========================================
 
 ## by downloaded file (use the file path on your computer)
-data=read.csv("C://Users/BH244340/Downloads/Glucose.csv")
+data=read.csv("") # enter your file path here
 
 ## by github URL, requires internet connection, this may timeout for online compiler 
-data = read.csv(url("https://raw.githubusercontent.com/yungclee/Corewell/main/Glucose.csv"))
+data = read.csv(url("https://raw.githubusercontent.com/yungclee/Corewell/main/Data/Glucose.csv"))
 
 
 ## by text, this method is not recommended
@@ -60,6 +60,7 @@ pie(prop.table(table(data$Glucose_grp)))
 
 #===========================================
 # bar plot for categorical variables
+# https://rpubs.com/techanswers88/after_stat_in_ggplot
 #===========================================
 
 # by Gender
