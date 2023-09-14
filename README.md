@@ -6,7 +6,9 @@
 # Sign-in and attendance 
 
 Please use the link whenever you enter the classroom or attend it virtually
+
 ![QR code](https://raw.githubusercontent.com/yungclee/Corewell/main/Attendance_QR.png)
+
 [Attendance link](https://forms.office.com/Pages/ResponsePage.aspx?id=ZUzVzZwwcUam-FsrxYeC_624GKUdbHJEtl-TphSoVWxUMVNZTlA0SlQzOFkzVkRVU0VGQTBBOVNOTi4u)
 
 # Virtual Office Hours
