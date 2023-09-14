@@ -5,7 +5,7 @@
 
 # Sign-in and attendance 
 
-Please use the link whenever you enter the classroom or attend it virtually
+Please use the link whenever you enter the classroom or attend it virtually\
 
 ![QR code](https://raw.githubusercontent.com/yungclee/Corewell/main/Attendance_QR.png)
 
