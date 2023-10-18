@@ -1,6 +1,7 @@
-# Announcement: No class next following Thursday on 10/12
+# Announcement: 10/12 will be a 45 minutes session.
 - updated slides for lecture 4
-- No class next thursday
+- Lili has to attend research summit dinner so the short course will be only 45 minutes.
+- Topic covers Fisher extact test, chi-siqaure test. 
 - updated contact info for Ray if none of the OH works for you  
  
 # Corewell Health East Biostat short course
