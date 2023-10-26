@@ -1,7 +1,6 @@
-# Announcement: 10/12 will be a 45 minutes session.
-- updated slides for lecture 4
-- Lili has to attend research summit dinner so the short course will be only 45 minutes.
-- Topic covers Fisher extact test, chi-siqaure test. 
+# Announcement: 10/26 
+- updated slides for lecture 6
+- Topic covers Simple linear regression.
 - updated contact info for Ray if none of the OH works for you  
  
 # Corewell Health East Biostat short course
