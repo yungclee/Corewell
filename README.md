@@ -1,7 +1,6 @@
-# Announcement: 10/26 
-- updated slides for lecture 6
-- Topic covers Simple linear regression.
-- updated contact info for Ray if none of the OH works for you  
+# Announcement: 11/16
+- updated slides for lecture 8
+- Topic covers logistic regression.
  
 # Corewell Health East Biostat short course
 - Hours: Every Thursday 5pm-6:30pm (**except for Oct/12, no class that day**)
@@ -16,11 +15,3 @@ Please use the link whenever you enter the classroom or attend it virtually\
 
 [Attendance link](https://forms.office.com/Pages/ResponsePage.aspx?id=ZUzVzZwwcUam-FsrxYeC_624GKUdbHJEtl-TphSoVWxUMVNZTlA0SlQzOFkzVkRVU0VGQTBBOVNOTi4u)
 
-# Virtual Office Hours
-
-Virtual Office hours are host on the following hours, links included:
-If non of the hours works, feel free to reach out to me Ray Lee (<yung-chun.lee@corewellhealth.org>)
-
-- [Monday 10-11am](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2FlZmJiZmUtOTNjNC00YjRhLWJkMzItMjkzMTdkNDE0ODdh%40thread.v2/0?context=%7b%22Tid%22%3a%22cdd54c65-309c-4671-a6f8-5b2bc58782ff%22%2c%22Oid%22%3a%22a518b8ad-6c1d-4472-b65f-93a614a8556c%22%7d)
-- [Monday 5-6pm](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGE2YzA1NTMtY2QxNS00MDMxLTlkMTUtMjlhOTM0Yjc3ZWQ1%40thread.v2/0?context=%7b%22Tid%22%3a%22cdd54c65-309c-4671-a6f8-5b2bc58782ff%22%2c%22Oid%22%3a%22a518b8ad-6c1d-4472-b65f-93a614a8556c%22%7d)
-- [Tuesday 2-3pm](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWVmMDQ4OGMtOTE0Mi00ZWE5LThiNWYtMjNiZTJjNWRlYmI5%40thread.v2/0?context=%7b%22Tid%22%3a%22cdd54c65-309c-4671-a6f8-5b2bc58782ff%22%2c%22Oid%22%3a%22a518b8ad-6c1d-4472-b65f-93a614a8556c%22%7d)
